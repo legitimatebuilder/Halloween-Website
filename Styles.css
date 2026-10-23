@@ -638,7 +638,7 @@ footer {
     margin: 0px 20px;
 }
 
-.footer-box ul li:hover a {
+.footer-box ul li a:hover {
     color: var(--main-color);
 }
 
